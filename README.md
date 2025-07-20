@@ -1,1 +1,1 @@
-tailwind css basic
+tailwind css basic project
