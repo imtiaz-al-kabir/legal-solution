@@ -1,4 +1,5 @@
-tailwind css basic project
-utility based 
+# tailwind css basic project
+
+utility based
 faster
 tailwindcss.com
